@@ -4,7 +4,7 @@
   
 <p align="center">
   <img align="center" src="https://i.pinimg.com/originals/54/bd/a3/54bda352b17744efa1f6898040455423.gif" width="80%"><br><br><br><br>
-  <a href="https://github.com/ItsAltoo">
+  <a href="https://github.com/ItsRafsh">
     <img src="./assets/contributions.svg" />
   </a>
 
