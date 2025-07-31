@@ -39,6 +39,8 @@
 - 🌐 Build real-world apps using **Django** and **Flask**
 - 🤝 Collaborate on open-source projects
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ItsRafsh&label=Profile%20views&color=0e75b6&style=flat" alt="ItsRafsh" width="" height="40px"/></p> -->
+
 
 
 
