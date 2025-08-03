@@ -2,10 +2,10 @@
   <img src="/assets/header.png" alt="Its CodingTime" width="100%" />
 </p>
 
-<h2 align="center">Hi there, I'm Rafa 👋</h2>
+<h1 align="center">Hi there, I'm Rafa</h1>
 
 
-### 🚀 Tech Stack I'm Learning & Using
+## Tech Stack I'm Learning & Using
 
 <p>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
@@ -15,14 +15,10 @@
   <img src="https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
----
 
-### 📈 GitHub Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafhrss&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </p>
-
-<img src="https://raw.githubusercontent.com/Rafhrss /Rafhrss /output/snake.svg" alt="Snake animation" />
 
 ###
 
