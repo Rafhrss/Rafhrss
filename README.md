@@ -23,23 +23,13 @@
 ---
 
 ### 📈 GitHub Stats
-
 <p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafhrss&layout=compact&theme=react" height="165"/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsAltoo&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsAltoo&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </p>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ---
-
-### 🎯 Goals
-
-- 📚 Deepen my understanding of **Machine Learning** and **Data Science**
-- 🌐 Build real-world apps using **Django** and **Flask**
-- 🤝 Collaborate on open-source projects
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
