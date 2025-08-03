@@ -22,12 +22,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafhrss&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </p>
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<img src="https://raw.githubusercontent.com/Rafhrss /Rafhrss /output/snake.svg" alt="Snake animation" />
+
+###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rafhrss /Rafhrss /output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rafhrss /Rafhrss /output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Rafhrss /Rafhrss /output/pacman-contribution-graph.svg">
 </picture>
+
+###
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ItsRafsh&label=Profile%20views&color=0e75b6&style=flat" alt="ItsRafsh" width="" height="40px"/></p>
