@@ -25,6 +25,10 @@
 ### 📈 GitHub Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsAltoo&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+<<<<<<< HEAD
+=======
+
+>>>>>>> af38debf0c2587b909b93ff3fed1ef3f2664a6f4
 </p>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
