@@ -3,11 +3,6 @@
 </p>
 
 <h2 align="center">Hi there, I'm Rafa 👋</h2>
-
-<p align="center">
-  <em>A passionate junior developer on a journey to become a <strong>Data Scientist</strong>. I'm currently exploring Python, Machine Learning, and Web Development tools like Django and Flask.</em>
-</p>
-
 ---
 
 ### 🚀 Tech Stack I'm Learning & Using
@@ -25,10 +20,6 @@
 ### 📈 GitHub Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsAltoo&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-<<<<<<< HEAD
-=======
-
->>>>>>> af38debf0c2587b909b93ff3fed1ef3f2664a6f4
 </p>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
