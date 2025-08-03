@@ -22,11 +22,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafhrss&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </p>
 
+<img src="https://raw.githubusercontent.com/Rafhrss /Rafhrss /output/snake.svg" alt="Snake animation" />
+
 ###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rafhrss /Rafhrss /output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rafhrss /Rafhrss /output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rafhrss /Rafhrss /output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Rafhrss /Rafhrss /output/pacman-contribution-graph.svg">
 </picture>
 
