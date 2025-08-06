@@ -5,15 +5,36 @@
 <h1 align="center">Hi there, I'm Rafa</h1>
 
 
-## Tech Stack I'm Learning & Using
 
-<p>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</p>
+<h3>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
+  Tech Stack I'm Learning & Using
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
+</h3>
+
+<div align="center">
+  
+  <div style="display: inline-block; margin: 10px;">
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" /><br/>
+    <sub>Python</sub>
+  </div>
+
+  <div style="display: inline-block; margin: 10px;">
+    <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" /><br/>
+    <sub>Django</sub>
+  </div>
+
+  <div style="display: inline-block; margin: 10px;">
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" /><br/>
+    <sub>JavaScript</sub>
+  </div>
+
+  <div style="display: inline-block; margin: 10px;">
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" /><br/>
+    <sub>React</sub>
+  </div>
+
+</div>
 
 
 <p>
