@@ -5,36 +5,33 @@
 <h1 align="center">Hi there, I'm Rafa</h1>
 
 
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tech Stack I'm Learning & Using
 
-<h3>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
-  Tech Stack I'm Learning & Using
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
-</h3>
+<table align='center'>
+<tr>
 
-<div align="center">
-  
-  <div style="display: inline-block; margin: 10px;">
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" /><br/>
-    <sub>Python</sub>
-  </div>
+  <td align="center" width="90">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="45" height="45" />
+  <br>Python
+  </td>
 
-  <div style="display: inline-block; margin: 10px;">
-    <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" /><br/>
-    <sub>Django</sub>
-  </div>
+  <td align="center" width="90">
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="45" height="45" />
+  <br>Django
+  </td>
 
-  <div style="display: inline-block; margin: 10px;">
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" /><br/>
-    <sub>JavaScript</sub>
-  </div>
+  <td align="center" width="90">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="45" height="45" />
+  <br>JavaScript
+  </td>
 
-  <div style="display: inline-block; margin: 10px;">
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" /><br/>
-    <sub>React</sub>
-  </div>
+  <td align="center" width="90">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="45" height="45" />
+  <br>React
+  </td>
+</tr>
 
-</div>
+</table>
 
 
 <p>
