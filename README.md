@@ -29,9 +29,20 @@
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="45" height="45" />
   <br>React
   </td>
-</tr>
 
+  <td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=flask" alt="React" />
+  <br>Flask
+  </td>
+
+  <td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=sklearn" alt="React" />
+  <br>Sklearn
+  </td>
+
+</tr>
 </table>
+
 
 
 <p>
