@@ -41,10 +41,6 @@
   <br>Tensorflow
   </td>
 
-  <td align="center" width="90">
-  <img src="https://skillicons.dev/icons?i=sklearn" alt="sklearn" />
-  <br>Sklearn
-  </td>
 
 </tr>
 </table>
