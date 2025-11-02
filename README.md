@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="/assets/header.png" alt="Its CodingTime" width="100%" />
-</p>
-
 <h1 align="center">Hi there, I'm Rafa</h1>
 
 
@@ -31,12 +27,22 @@
   </td>
 
   <td align="center" width="90">
-  <img src="https://skillicons.dev/icons?i=flask" alt="React" />
+  <img src="https://skillicons.dev/icons?i=flask" alt="Flask" />
   <br>Flask
   </td>
 
   <td align="center" width="90">
-  <img src="https://skillicons.dev/icons?i=sklearn" alt="React" />
+  <img src="https://skillicons.dev/icons?i=sklearn" alt="Sklearn" />
+  <br>Sklearn
+  </td>
+
+  <td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="Tensorflow" />
+  <br>Tensorflow
+  </td>
+
+  <td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=sklearn" alt="sklearn" />
   <br>Sklearn
   </td>
 
